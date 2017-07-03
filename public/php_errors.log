@@ -1,0 +1,290 @@
+[02-Jul-2017 08:51:38 PRC] PHP Warning:  syntax error, unexpected $end, expecting TC_DOLLAR_CURLY or TC_QUOTED_STRING or '"' in E:\yaf/conf/application.ini on line 3
+ in E:\yaf\public\index.php on line 3
+[02-Jul-2017 08:51:38 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_StartupError' with message 'Initialization of application config failed' in E:\yaf\public\index.php:3
+Stack trace:
+#0 E:\yaf\public\index.php(0): Yaf_Application::__construct()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 3
+[02-Jul-2017 08:51:39 PRC] PHP Warning:  syntax error, unexpected $end, expecting TC_DOLLAR_CURLY or TC_QUOTED_STRING or '"' in E:\yaf/conf/application.ini on line 3
+ in E:\yaf\public\index.php on line 3
+[02-Jul-2017 08:51:39 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_StartupError' with message 'Initialization of application config failed' in E:\yaf\public\index.php:3
+Stack trace:
+#0 E:\yaf\public\index.php(0): Yaf_Application::__construct()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 3
+[02-Jul-2017 08:51:41 PRC] PHP Warning:  syntax error, unexpected $end, expecting TC_DOLLAR_CURLY or TC_QUOTED_STRING or '"' in E:\yaf/conf/application.ini on line 3
+ in E:\yaf\public\index.php on line 3
+[02-Jul-2017 08:51:41 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_StartupError' with message 'Initialization of application config failed' in E:\yaf\public\index.php:3
+Stack trace:
+#0 E:\yaf\public\index.php(0): Yaf_Application::__construct()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 3
+[02-Jul-2017 08:51:42 PRC] PHP Warning:  syntax error, unexpected $end, expecting TC_DOLLAR_CURLY or TC_QUOTED_STRING or '"' in E:\yaf/conf/application.ini on line 3
+ in E:\yaf\public\index.php on line 3
+[02-Jul-2017 08:51:42 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_StartupError' with message 'Initialization of application config failed' in E:\yaf\public\index.php:3
+Stack trace:
+#0 E:\yaf\public\index.php(0): Yaf_Application::__construct()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 3
+[02-Jul-2017 09:01:12 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 09:01:14 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 09:01:22 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Application.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 09:01:22 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 09:01:25 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 09:01:27 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 09:02:03 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 09:02:05 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 09:02:07 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 23:27:27 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 23:27:28 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 23:27:29 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[02-Jul-2017 23:27:32 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 20:37:29 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 20:37:31 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 20:55:22 PRC] PHP Fatal error:  Uncaught exception 'Yaf_Exception_LoadFailed_Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf_Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 21:56:38 PRC] PHP Fatal error:  Class 'Yaf_Application' not found in E:\yaf\public\index.php on line 4
+[03-Jul-2017 21:56:40 PRC] PHP Fatal error:  Class 'Yaf_Application' not found in E:\yaf\public\index.php on line 4
+[03-Jul-2017 21:56:41 PRC] PHP Fatal error:  Class 'Yaf_Application' not found in E:\yaf\public\index.php on line 4
+[03-Jul-2017 21:57:11 PRC] PHP Warning:  Yaf\Loader::autoload(): You should not use 'Yaf_' as class name prefix in E:\yaf\application\controllers\index.php on line 2
+[03-Jul-2017 21:57:11 PRC] PHP Fatal error:  Class 'Yaf_Controller_Abstract' not found in E:\yaf\application\controllers\index.php on line 2
+[03-Jul-2017 21:57:12 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 21:58:59 PRC] PHP Warning:  Yaf\Loader::autoload(): You should not use 'Yaf_' as class name prefix in E:\yaf\application\controllers\index.php on line 2
+[03-Jul-2017 21:58:59 PRC] PHP Fatal error:  Class 'Yaf_Controller_Abstract' not found in E:\yaf\application\controllers\index.php on line 2
+[03-Jul-2017 21:58:59 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:01:03 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:01:44 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:02:56 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:03:36 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:03:39 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:09:09 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:09:33 PRC] PHP Fatal error:  Class 'Twig\Adapter' not found in E:\yaf\application\Bootstrap.php on line 69
+[03-Jul-2017 22:09:33 PRC] PHP Fatal error:  Class 'Twig\Adapter' not found in E:\yaf\application\Bootstrap.php on line 69
+[03-Jul-2017 22:11:14 PRC] PHP Fatal error:  Class 'Twig\Adapter' not found in E:\yaf\application\Bootstrap.php on line 69
+[03-Jul-2017 22:11:14 PRC] PHP Fatal error:  Class 'Twig\Adapter' not found in E:\yaf\application\Bootstrap.php on line 69
+[03-Jul-2017 22:11:49 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 69
+[03-Jul-2017 22:11:49 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 69
+[03-Jul-2017 22:17:37 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 71
+[03-Jul-2017 22:17:38 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 71
+[03-Jul-2017 22:19:46 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 70
+[03-Jul-2017 22:19:46 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 70
+[03-Jul-2017 22:19:59 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 70
+[03-Jul-2017 22:19:59 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 70
+[03-Jul-2017 22:25:44 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 70
+[03-Jul-2017 22:25:45 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 70
+[03-Jul-2017 22:25:46 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 70
+[03-Jul-2017 22:25:46 PRC] PHP Fatal error:  Call to a member function toArray() on null in E:\yaf\application\Bootstrap.php on line 70
+[03-Jul-2017 22:26:37 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\StartupError' with message 'Initialization of application config failed' in E:\yaf\public\index.php:4
+Stack trace:
+#0 E:\yaf\public\index.php(0): Yaf\Application::__construct()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 4
+[03-Jul-2017 22:26:37 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\StartupError' with message 'Initialization of application config failed' in E:\yaf\public\index.php:4
+Stack trace:
+#0 E:\yaf\public\index.php(0): Yaf\Application::__construct()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 4
+[03-Jul-2017 22:27:19 PRC] PHP Fatal error:  Call to undefined function slog() in E:\yaf\application\Bootstrap.php on line 43
+[03-Jul-2017 22:27:19 PRC] PHP Fatal error:  Call to undefined function slog() in E:\yaf\application\Bootstrap.php on line 43
+[03-Jul-2017 22:28:33 PRC] PHP Fatal error:  Class 'Twig_Loader_Filesystem' not found in E:\yaf\application\library\Twig\Adapter.php on line 27
+[03-Jul-2017 22:28:34 PRC] PHP Fatal error:  Class 'Twig_Loader_Filesystem' not found in E:\yaf\application\library\Twig\Adapter.php on line 27
+[03-Jul-2017 22:29:26 PRC] PHP Fatal error:  Class 'Twig_Loader_Filesystem' not found in E:\yaf\application\library\Twig\Adapter.php on line 27
+[03-Jul-2017 22:29:26 PRC] PHP Fatal error:  Class 'Twig_Loader_Filesystem' not found in E:\yaf\application\library\Twig\Adapter.php on line 27
+[03-Jul-2017 22:31:21 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:33:01 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:35:55 PRC] PHP Notice:  Use of undefined constant DB - assumed 'DB' in E:\yaf\application\controllers\index.php on line 6
+[03-Jul-2017 22:35:56 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:36:41 PRC] PHP Warning:  The use statement with non-compound name 'DB' has no effect in E:\yaf\application\controllers\index.php on line 2
+[03-Jul-2017 22:36:41 PRC] PHP Notice:  Use of undefined constant DB - assumed 'DB' in E:\yaf\application\controllers\index.php on line 7
+[03-Jul-2017 22:36:41 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:38:46 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:39:16 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:39:56 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:41:16 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:41:18 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:41:28 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:41:29 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:41:49 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:43:18 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:43:19 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:43:23 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:43:24 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:43:26 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:46:33 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:46:37 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
+[03-Jul-2017 22:46:38 PRC] PHP Fatal error:  Uncaught exception 'Yaf\Exception\LoadFailed\Controller' with message 'Failed opening controller script E:\yaf/application/\controllers\Favicon.ico.php: No such file or directory' in E:\yaf\public\index.php:5
+Stack trace:
+#0 E:\yaf\public\index.php(5): Yaf\Application->run()
+#1 {main}
+  thrown in E:\yaf\public\index.php on line 5
